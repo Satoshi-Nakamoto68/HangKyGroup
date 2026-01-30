@@ -13,7 +13,7 @@ import {
 import { AnimatedResultsSection } from "@/components/portfolio/animated-results-section";
 
 export const metadata: Metadata = {
-  title: "Portfolio Company | Eternal Order Investment Group",
+  title: "Portfolio Company | Hang Ky Investment Group",
   description: "View details about our portfolio company investment.",
 };
 

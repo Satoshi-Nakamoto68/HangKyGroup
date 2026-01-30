@@ -3,9 +3,9 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Eternal Order Investment Group",
+  title: "Privacy Policy | Hang Ky Investment Group",
   description:
-    "Privacy Policy for Eternal Order Investment Group (HKIG Jsc) website and services.",
+    "Privacy Policy for Hang Ky Investment Group (HKIG Jsc) website and services.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -25,7 +25,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p className="text-muted-foreground mb-2">
-            Eternal Order Investment Group (HKIG Jsc)
+            Hang Ky Investment Group (HKIG Jsc)
           </p>
           <p className="text-sm text-muted-foreground">
             Last updated: January 2026
@@ -42,8 +42,8 @@ export default function PrivacyPolicyPage() {
                   1. Introduction
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  Eternal Order Investment Group (HKIG Jsc) ({"\"we\""}, {"\"our\""}, or
-                  {"\"us\""}) respects your privacy and is committed to protecting
+                  Hang Ky Investment Group (HKIG Jsc) ({'"we"'}, {'"our"'}, or
+                  {'"us"'}) respects your privacy and is committed to protecting
                   your personal data. This privacy policy explains how we
                   collect, use, and safeguard your information when you visit
                   our website or interact with our services.

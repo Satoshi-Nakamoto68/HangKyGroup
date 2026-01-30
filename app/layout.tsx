@@ -17,17 +17,17 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "Hang Ky Investment Group | HKIG Jsc",
   description:
-    "Eternal Order Investment Group (HKIG Jsc) - Founded on Absolute Trust. A multi-sector investment holding company focused on Fashion, Technology, Import/Export, Governance, Marketing, and Real Estate.",
+    "Hang Ky Investment Group (HKIG Jsc) - Founded on Absolute Trust. A multi-sector investment holding company focused on Fashion, Technology, Import/Export, Governance, Marketing, and Real Estate.",
   keywords: [
     "investment group",
     "HKIG",
-    "Eternal Order",
+    "Hang Ky",
     "Hang Ky Investment",
     "multi-sector investments",
   ],
-  authors: [{ name: "Eternal Order Investment Group" }],
+  authors: [{ name: "Hang Ky Investment Group" }],
   openGraph: {
-    title: "Eternal Order Investment Group | Founded on Absolute Trust",
+    title: "Hang Ky Investment Group | Founded on Absolute Trust",
     description:
       "Multi-sector investment holding company with strong governance and high credibility.",
     type: "website",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Eternal Order Investment Group",
+    title: "Hang Ky Investment Group",
     description: "Founded on Absolute Trust - Multi-sector Investments",
   },
   generator: "v0.app",

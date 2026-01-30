@@ -11,7 +11,7 @@ import {
 
 /** Logo: same as header - place at public/logo-web.png */
 const LOGO_SRC = "/logo-web.png";
-const LOGO_ALT = "Eternal Order Investment Group - HKIG Jsc";
+const LOGO_ALT = "Hang Ky Investment Group - HKIG Jsc";
 
 function getLangFromDocument(): string {
   if (typeof document === "undefined") return "en";

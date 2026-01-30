@@ -169,7 +169,7 @@ const articles: Article[] = [
     id: "3",
     title: "Building Long-term Value: Our Investment Philosophy",
     excerpt:
-      "At Eternal Order Investment Group, we believe sustainable value creation requires patience, discipline, and a commitment to principles. Here is how we approach investing.",
+      "At Hang Ky Investment Group, we believe sustainable value creation requires patience, discipline, and a commitment to principles. Here is how we approach investing.",
     category: "Investment Philosophy",
     date: "December 2025",
     readTime: "6 min read",
@@ -323,7 +323,7 @@ export default function InsightsPage() {
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl">
             Market updates, governance notes, and investment perspectives from
-            Eternal Order Investment Group.
+            Hang Ky Investment Group.
           </p>
           <div className="flex flex-wrap gap-2 mt-6">
             {editorialChips.map((chip) => (

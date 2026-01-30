@@ -3,7 +3,7 @@ import { Cpu } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Technology Investments | Eternal Order Investment Group",
+  title: "Technology Investments | Hang Ky Investment Group",
   description:
     "Backing innovative technology companies driving digital transformation across industries.",
 };

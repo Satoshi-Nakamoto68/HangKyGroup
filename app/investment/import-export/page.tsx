@@ -3,7 +3,7 @@ import { Ship } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Import & Export Investments | Eternal Order Investment Group",
+  title: "Import & Export Investments | Hang Ky Investment Group",
   description:
     "Facilitating international trade with a focus on quality goods and reliable logistics.",
 };

@@ -3,7 +3,7 @@ import { Home } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Real Estate Investments | Eternal Order Investment Group",
+  title: "Real Estate Investments | Hang Ky Investment Group",
   description:
     "Strategic property investments in commercial, residential, and mixed-use developments.",
 };
@@ -67,11 +67,7 @@ export default function RealEstatePage() {
           title: "Commercial Property",
           description:
             "Quality office or retail property in prime location with stable tenancy and upside potential.",
-          metrics: [
-            "Prime location",
-            "Quality tenants",
-            "Value-add potential",
-          ],
+          metrics: ["Prime location", "Quality tenants", "Value-add potential"],
         },
         {
           title: "Development Project",

@@ -116,8 +116,8 @@ export function MissionSection() {
                 : "translate-y-4 opacity-0",
             )}
           >
-            Eternal Order Investment Group operates at the intersection of
-            strategic vision and operational excellence. We identify and nurture
+            Hang Ky Investment Group operates at the intersection of strategic
+            vision and operational excellence. We identify and nurture
             high-potential ventures across Fashion, Technology, Import & Export,
             Governance, Marketing, and Real Estate—always with a commitment to
             transparency, long-term value creation, and rigorous corporate

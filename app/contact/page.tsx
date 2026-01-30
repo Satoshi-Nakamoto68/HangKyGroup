@@ -346,9 +346,9 @@ export default function ContactPage() {
                     Message Sent
                   </h3>
                   <p className="text-muted-foreground mb-6 max-w-md mx-auto">
-                    Thank you for contacting Eternal Order Investment Group. Our
-                    team will review your inquiry and respond within 2–3
-                    business days.
+                    Thank you for contacting Hang Ky Investment Group. Our team
+                    will review your inquiry and respond within 2–3 business
+                    days.
                   </p>
                   <div className="text-left max-w-md mx-auto mb-8">
                     <p className="text-sm font-medium text-navy mb-2">
@@ -596,9 +596,8 @@ export default function ContactPage() {
                           >
                             Privacy Policy
                           </a>{" "}
-                          and consent to Eternal Order Investment Group
-                          processing my data for the purpose of responding to
-                          this inquiry. *
+                          and consent to Hang Ky Investment Group processing my
+                          data for the purpose of responding to this inquiry. *
                         </label>
                       </div>
                     </div>

@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Investment Focus | Eternal Order Investment Group",
+  title: "Investment Focus | Hang Ky Investment Group",
   description:
     "Explore our six investment pillars: Fashion, Technology, Import & Export, Governance, Marketing, and Real Estate.",
 };

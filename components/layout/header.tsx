@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 
 /** Logo: place at public/logo.svg or public/logo-web.png. Yellow logo works best on navy header. */
 const LOGO_SRC = "/logo-web.png";
-const LOGO_ALT = "Eternal Order Investment Group - HKIG Jsc";
+const LOGO_ALT = "Hang Ky Investment Group - HKIG Jsc";
 
 type NavItemBase = { href: string };
 type NavItemWithChildren = NavItemBase & {
@@ -183,7 +183,7 @@ export function Header() {
           <Link
             href="/"
             className="relative flex shrink-0 items-center focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-navy rounded"
-            aria-label="Eternal Order Investment Group - Go to homepage"
+            aria-label="Hang Ky Investment Group - Go to homepage"
           >
             <span className="relative flex h-14 w-[200px] items-center sm:h-16 sm:w-[240px]">
               <Image

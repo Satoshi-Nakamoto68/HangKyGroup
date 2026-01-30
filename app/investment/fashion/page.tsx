@@ -3,7 +3,7 @@ import { Shirt } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Fashion Investments | Eternal Order Investment Group",
+  title: "Fashion Investments | Hang Ky Investment Group",
   description:
     "Strategic investments in apparel, luxury goods, and lifestyle brands with global growth potential.",
 };

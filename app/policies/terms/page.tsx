@@ -3,9 +3,8 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Terms of Use | Eternal Order Investment Group",
-  description:
-    "Terms of Use for Eternal Order Investment Group (HKIG Jsc) website.",
+  title: "Terms of Use | Hang Ky Investment Group",
+  description: "Terms of Use for Hang Ky Investment Group (HKIG Jsc) website.",
 };
 
 export default function TermsPage() {
@@ -25,7 +24,7 @@ export default function TermsPage() {
             Terms of Use
           </h1>
           <p className="text-muted-foreground mb-2">
-            Eternal Order Investment Group (HKIG Jsc)
+            Hang Ky Investment Group (HKIG Jsc)
           </p>
           <p className="text-sm text-muted-foreground">
             Last updated: January 2026
@@ -67,10 +66,10 @@ export default function TermsPage() {
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
                   All content on this website, including text, graphics, logos,
-                  and images, is the property of Eternal Order Investment Group
-                  (HKIG Jsc) and is protected by copyright and other
-                  intellectual property laws. You may not reproduce, distribute,
-                  or use any content without our prior written consent.
+                  and images, is the property of Hang Ky Investment Group (HKIG
+                  Jsc) and is protected by copyright and other intellectual
+                  property laws. You may not reproduce, distribute, or use any
+                  content without our prior written consent.
                 </p>
               </div>
 
@@ -79,7 +78,7 @@ export default function TermsPage() {
                   4. Disclaimer
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  This website is provided {"\"as is\""} without any warranties,
+                  This website is provided {'"as is"'} without any warranties,
                   express or implied. We do not warrant that the website will be
                   uninterrupted, error-free, or free of viruses or other harmful
                   components.
@@ -91,10 +90,10 @@ export default function TermsPage() {
                   5. Limitation of Liability
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  To the fullest extent permitted by law, Eternal Order
-                  Investment Group (HKIG Jsc) shall not be liable for any
-                  damages arising from your use of this website or any
-                  information contained herein.
+                  To the fullest extent permitted by law, Hang Ky Investment
+                  Group (HKIG Jsc) Investment Group (HKIG Jsc) shall not be
+                  liable for any damages arising from your use of this website
+                  or any information contained herein.
                 </p>
               </div>
 

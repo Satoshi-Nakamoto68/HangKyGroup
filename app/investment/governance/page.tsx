@@ -3,7 +3,7 @@ import { Building2 } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Governance & Management Investments | Eternal Order Investment Group",
+  title: "Governance & Management Investments | Hang Ky Investment Group",
   description:
     "Advisory and investment in management consulting, corporate governance, and organizational development.",
 };

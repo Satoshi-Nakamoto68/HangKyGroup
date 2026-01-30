@@ -3,7 +3,7 @@ import { TrendingUp } from "lucide-react";
 import { PillarPage } from "@/components/investment/pillar-page";
 
 export const metadata: Metadata = {
-  title: "Marketing & Growth Investments | Eternal Order Investment Group",
+  title: "Marketing & Growth Investments | Hang Ky Investment Group",
   description:
     "Investing in agencies and platforms that drive brand growth and market expansion.",
 };
