@@ -48,7 +48,7 @@ export default function RootLayout({
 }>) {
   const gtranslateSettings = {
     default_language: "en",
-    detect_browser_language: true,
+    detect_browser_language: false,
     languages: ["en", "vi", "ja"],
     wrapper_selector: ".gtranslate_wrapper",
   };
