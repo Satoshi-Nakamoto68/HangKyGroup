@@ -140,7 +140,7 @@ export function TrustSection() {
             Corporate Identity
           </p>
           <p className="font-serif text-2xl text-cream mb-2">
-            Eternal Order Investment Group
+            {companyName} Investment Group
           </p>
           <p className="text-cream/70 mb-4">HKIG Jsc</p>
           <div className="h-px w-16 bg-gold/30 mx-auto my-4" />
